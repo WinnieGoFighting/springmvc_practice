@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -36,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1buM2U4eqpDIpg5kEsg9Y1WGs8K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day01_Response" />
   </component>
   <component name="RunManager">
     <configuration name="springmvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false">
@@ -131,11 +136,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -155,6 +155,7 @@
       <updated>1589477317173</updated>
       <workItem from="1589477324518" duration="573000" />
       <workItem from="1589477953066" duration="3495000" />
+      <workItem from="1589528779724" duration="36000" />
     </task>
     <servers />
   </component>
@@ -170,6 +171,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1280.680/9.-1080.1920.1040@0.0.1280.680" timestamp="1589478640352" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589528818241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/9.-1080.1920.1040@0.0.1280.680" timestamp="1589528818241" />
     <state width="876" height="541" key="GridCell.Tab.0.bottom" timestamp="1589504167777">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -218,10 +223,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="876" height="541" key="GridCell.Tab.2.right/0.0.1280.680/9.-1080.1920.1040@0.0.1280.680" timestamp="1589504167778" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589477961793">
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589528779234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/9.-1080.1920.1040@0.0.1280.680" timestamp="1589477961793" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/9.-1080.1920.1040@0.0.1280.680" timestamp="1589528779234" />
     <state x="269" y="37" width="742" height="606" key="find.popup" timestamp="1589478786439">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
