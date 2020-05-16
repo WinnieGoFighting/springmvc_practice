@@ -29,11 +29,11 @@
 <%--        <input type="submit" value="提交">--%>
 <%--    </form>--%>
 
-<%--    <form action="anno/testModelAttribute2" method="post">--%>
-<%--        姓名：<input type="text" name="uname"><br>--%>
-<%--        年龄：<input type="text" name="age"><br>--%>
-<%--        <input type="submit" value="提交">--%>
-<%--    </form>--%>
+    <form action="anno/testModelAttribute2" method="post">
+        姓名：<input type="text" name="uname"><br>
+        年龄：<input type="text" name="age"><br>
+        <input type="submit" value="提交">
+    </form>
 
 <a href="anno/testSessionAttributes">往session中存值</a>
 <a href="anno/testSessionAttributes2">从session中取值</a>

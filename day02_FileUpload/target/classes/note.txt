@@ -1,0 +1,6 @@
+RequestMapping 的属性
+    value:用于指定请求的url,和path属性一样
+    path
+    method:限定请求方式
+    headers:
+    params:用于指定限制请求参数的条件
